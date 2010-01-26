@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">HelloScala</string>
+	<string name="hello_java">Hello World, HelloJava!</string>
+	<string name="hello_scala">Hello World, HelloScala!</string>
+	<string name="change">change activity</string>
+</resources>
